@@ -8,5 +8,5 @@ This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
 # Labs
 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
 
-- [×] Lab01: Number Rep, C and CGDB
-- [×] Lab02: Advanced C
+- [x] Lab01: Number Rep, C and CGDB
+- [x] Lab02: Advanced C
