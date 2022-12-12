@@ -2,7 +2,7 @@
 This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
 
 # Resources
-📽 All course resources can be found at https://inst.eecs.berkeley.edu/~cs61c/su20/.
+📽 All course resources can be found at https://inst.eecs.berkeley.edu/~cs61c/su20/.  
 📖 For labs and projects, I choose fa20, which can be reached at https://inst.eecs.berkeley.edu/~cs61c/fa20/.
 
 # Labs
