@@ -8,8 +8,8 @@ This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
 # Labs
 🐱‍👓 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
 
-- [x] Lab01: Number Rep, C and CGDB
-- [x] Lab02: Advanced C
+- [x] [Lab01: Number Rep, C and CGDB](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab01)
+- [x] [Lab02: Advanced C](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab02)
 - [ ] Lab03: RISCV Assembly
 - [ ] Lab04: RISCV Functions, Pointers
 - [ ] Lab05: Logisim
@@ -22,7 +22,7 @@ This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
 
 # Projects
 🈚 The Projects contain 4 independent projects. I put the projects in 4 independent repositories.
-- [ ] Project1: Conway's Game of Life, in RGB
+- [x] [Project1: Conway's Game of Life, in RGB](https://github.com/GreyPreacher/Berkeley-CS61C-fa20-proj1)
 - [ ] Project2: CS61Classify
 - [ ] Project3: CS61CPU
 - [ ] Project4: Numc
