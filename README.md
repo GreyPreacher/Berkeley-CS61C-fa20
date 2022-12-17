@@ -1,10 +1,11 @@
 # Berkeley-CS61C
 This is Berkeley CS61C by GreyPreacher(Alvin Zhang).  
-**This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**
+**This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**  
+You can find my CS61C sp22 repository at [this page](https://github.com/GreyPreacher/Berkeley-CS61C).
 
 # Resources
-📽 All course resources can be found at https://inst.eecs.berkeley.edu/~cs61c/su20/.  
-📖 For labs and projects, I choose fa20, which can be reached at https://inst.eecs.berkeley.edu/~cs61c/fa20/.
+📽 All course resources can be found at the [official website](https://inst.eecs.berkeley.edu/~cs61c/su20/).  
+📖 For labs and projects, I choose fa20, which can be reached at [this page](https://inst.eecs.berkeley.edu/~cs61c/fa20/).
 
 # Labs
 🐱‍👓 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
