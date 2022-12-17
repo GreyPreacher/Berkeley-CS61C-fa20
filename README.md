@@ -1,5 +1,6 @@
 # Berkeley-CS61C
-This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
+This is Berkeley CS61C by GreyPreacher(Alvin Zhang).  
+**This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**
 
 # Resources
 📽 All course resources can be found at https://inst.eecs.berkeley.edu/~cs61c/su20/.  
@@ -7,7 +8,6 @@ This is Berkeley CS61C by GreyPreacher(Alvin Zhang). I am still working on it.
 
 # Labs
 🐱‍👓 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
-
 - [x] [Lab01: Number Rep, C and CGDB](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab01)
 - [x] [Lab02: Advanced C](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab02)
 - [ ] Lab03: RISCV Assembly
