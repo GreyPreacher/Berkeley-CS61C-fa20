@@ -1,6 +1,6 @@
 # Berkeley-CS61C
-This is Berkeley CS61C by GreyPreacher(Alvin Zhang).  
-**This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**  
+This is Berkeley CS61C fall 2020 by GreyPreacher(Alvin Zhang).  
+**IMPORTANT: This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**  
 You can find my CS61C sp22 repository at [this page](https://github.com/GreyPreacher/Berkeley-CS61C).
 
 # Resources
