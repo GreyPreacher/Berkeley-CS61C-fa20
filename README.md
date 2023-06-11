@@ -1,4 +1,4 @@
-# Berkeley-CS61C
+# Berkeley-CS61C-fa2020
 This is Berkeley CS61C **Great Ideas in Computer Architecture** fall 2020 by GreyPreacher(Alvin Zhang).  
 **IMPORTANT: This repository is  discarded due to venus incompatibility, I decide to abandon CS61C fa20 and to finish CS61C sp22 instead.**  
 You can find my CS61C sp22 repository at [this page](https://github.com/GreyPreacher/Berkeley-CS61C).
